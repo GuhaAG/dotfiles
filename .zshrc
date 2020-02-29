@@ -56,3 +56,7 @@ export PATH="$PATH:/Users/arghya/flutter/bin"
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /Users/arghya/.zsh/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 source /Users/arghya/.zsh/history.zsh
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/openssl/lib"
+export CPPFLAGS="-I/usr/local/opt/openssl/include"
+
