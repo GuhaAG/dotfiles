@@ -4,7 +4,7 @@
 
 module.exports = {
   config: {
-    activeTab: "🚀",
+    activeTab: "🥃",
 
     webGLRenderer: false,
 
